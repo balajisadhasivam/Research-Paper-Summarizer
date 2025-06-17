@@ -44,6 +44,3 @@ research_summarizer/
 3. Select desired reading level
 4. View the simplified summary and flashcards
 
-## License
-
-MIT License 
