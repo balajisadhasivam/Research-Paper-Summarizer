@@ -9,7 +9,6 @@ sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 from core.summarizer import ResearchSummarizer
 from core.flashcard_gen import FlashcardGenerator
-from models.utils import get_device_info, get_memory_usage
 from models.model_loader import ModelManager
 
 # Configure logging
